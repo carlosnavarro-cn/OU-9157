@@ -38,7 +38,7 @@ function setup() {
 
 
 function draw() {
-  background(255);
+  background(37);
   noStroke();
   //ambientLight(200,255,255);
   ambientLight(229, 255, 255);
